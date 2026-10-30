@@ -11,5 +11,5 @@ Codex CLI에서 쓰는 작업 지침과 Skill 모음이다.
 작업 폴더에서 실행한다.
 
 ```bash
-git clone https://github.com/easyhunjune/codex-kit ~/k && bash ~/k/setup.sh
+git clone https://github.com/easyhunjune/codex-kit /tmp/k && bash /tmp/k/setup.sh
 ```

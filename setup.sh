@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# 사용: 작업 폴더에서  bash ~/k/setup.sh
+# 사용: 작업 폴더에서  bash /tmp/k/setup.sh
 # 작업 폴더에 AGENTS.md와 .agents/skills만 복사한다. ~/.codex 전역 설정은 건드리지 않는다.
 set -euo pipefail
 
